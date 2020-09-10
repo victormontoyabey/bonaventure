@@ -80,3 +80,11 @@ h2.subtitle {
 .black {
   color: black;
 }
+
+.montserrat {
+  font-family: "Montserrat";
+}
+
+.test-icon {
+  margin: auto;
+}
