@@ -88,3 +88,7 @@ h2.subtitle {
 .test-icon {
   margin: auto;
 }
+
+.section-padding {
+  padding: 5rem 1.5rem;
+}
