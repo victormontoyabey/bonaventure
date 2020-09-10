@@ -1,3 +1,4 @@
+/* NAVIGATION BURGER MENU */
 let burger = document.querySelector(".navbar-burger");
 let navMenu = document.querySelector(".navbar-menu");
 

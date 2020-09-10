@@ -1,3 +1,8 @@
+/* NAVIGATION */
+.navbar {
+  padding: 1.2rem 0;
+}
+
 .navbar-logo {
   font-size: 20px;
   font-family: "Montserrat", sans-serif;
@@ -27,4 +32,11 @@ a.navbar-item:hover {
 
 .navbar-menu .navbar-item:hover {
   color: #059552;
+}
+
+/* HERO SECTION */
+
+.devices-illustration {
+  width: 998px;
+  margin: auto;
 }
