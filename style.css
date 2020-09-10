@@ -42,3 +42,14 @@ a.navbar-item:hover {
 .devices-illustration {
   width: 998px;
 }
+
+h1.title {
+  font-family: "Montserrat", sans-serif;
+  color: black;
+  font-weight: ;
+}
+
+h2.subtitle {
+  color: black;
+  font-family: "Montserrat", sans-serif;
+}
