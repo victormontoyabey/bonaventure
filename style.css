@@ -92,3 +92,7 @@ h2.subtitle {
 .section-padding {
   padding: 5rem 1.5rem;
 }
+
+.quote {
+  margin: 2rem auto 2.5rem;
+}
