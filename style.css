@@ -96,3 +96,7 @@ h2.subtitle {
 .quote {
   margin: 2rem auto 2.5rem;
 }
+
+img.is-rounded.avatar {
+  margin: 2rem auto auto;
+}
