@@ -71,16 +71,11 @@ h2.subtitle {
     brightness(103%) contrast(102%);
 }
 
-/*
-.medium {
-  font-weight: 500;
-  font-family: "Montserrat", sans-serif;
-}
-*/
-
 .icon-margin-bottom {
   margin-bottom: 1.5rem;
 }
+
+/* TESTIMONIALS SECTION */
 
 .black {
   color: black;
