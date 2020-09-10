@@ -34,9 +34,11 @@ a.navbar-item:hover {
   color: #059552;
 }
 
-/* HERO SECTION */
+.navbar .navbar-menu {
+  text-align: center;
+}
 
+/* HERO SECTION */
 .devices-illustration {
   width: 998px;
-  margin: auto;
 }
