@@ -50,3 +50,12 @@ h2.subtitle {
   color: black;
   font-family: "Montserrat", sans-serif;
 }
+
+/* INFORMATION SECTION */
+.gradient-background {
+  background-image: linear-gradient(#059552, #034b29);
+}
+
+.info-icon {
+  height: 160px;
+}
