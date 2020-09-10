@@ -10,5 +10,30 @@
 
 .float-right {
   float: right;
+}
+
+.navbar-right {
   display: flex;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.navbar-logo {
+  font-size: 20px;
+  font-family: "Montserrat";
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.navbar-links {
+  font-family: "Montserrat";
+  font-size: 20px;
+  text-transform: uppercase;
 }
