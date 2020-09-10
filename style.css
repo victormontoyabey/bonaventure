@@ -1,39 +1,17 @@
-* {
-  margin: 0px;
-  padding: 0px;
-  box-sizing: border-box;
-}
-
-.float-left {
-  float: left;
-}
-
-.float-right {
-  float: right;
-}
-
-.navbar-right {
-  display: flex;
-}
-
-a {
-  text-decoration: none;
+.navbar-logo {
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
   color: black;
 }
 
-ul {
-  list-style-type: none;
+.navbar-burger span {
+  font-size: 20px;
+  height: 3px;
+  color: black;
 }
 
-.navbar-logo {
-  font-size: 20px;
-  font-family: "Montserrat";
-  font-weight: bold;
-  text-transform: uppercase;
-}
-
-.navbar-links {
-  font-family: "Montserrat";
-  font-size: 20px;
-  text-transform: uppercase;
+.navbar-link-style {
+  font-family: "Montserrat", sans-serif;
+  color: black;
 }

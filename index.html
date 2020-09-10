@@ -7,20 +7,37 @@
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
     />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css"
+    />
     <link rel="stylesheet" href="style.css" />
     <title>Bonaventure</title>
   </head>
   <body>
-    <nav>
-      <ul class="float-left">
-        <li class="navbar-logo"><a href="">Bonaventure</a></li>
-      </ul>
-      <ul class="float-right navbar-right navbar-links">
-        <li><a href="">Services</a></li>
-        <li><a href="">About</a></li>
-        <li><a href="">Contact</a></li>
-      </ul>
-    </nav>
+    <div class="navbar">
+      <div class="navbar-brand">
+        <a href="" class="navbar-item navbar-logo is-uppercase">Bonaventure</a>
+        <a href="" class="navbar-burger" data-target="navMenu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </a>
+      </div>
+      <div class="navbar-menu" id="navMenu">
+        <div class="navbar-end">
+          <a href="" class="navbar-item is-uppercase navbar-link-style"
+            >Services</a
+          >
+          <a href="" class="navbar-item is-uppercase navbar-link-style"
+            >About</a
+          >
+          <a href="" class="navbar-item is-uppercase navbar-link-style"
+            >Contact</a
+          >
+        </div>
+      </div>
+    </div>
 
     <script src="script.js"></script>
   </body>
