@@ -12,6 +12,19 @@
 }
 
 .navbar-link-style {
-  font-family: "Montserrat", sans-serif;
   color: black;
+  font-family: "Montserrat", sans-serif;
+}
+
+a.navbar-item:hover {
+  color: black;
+  background: white;
+}
+
+.navbar-burger:hover {
+  background: white;
+}
+
+.navbar-menu .navbar-item:hover {
+  color: #059552;
 }
