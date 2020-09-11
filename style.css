@@ -128,3 +128,7 @@ h1.title.cta {
 .white-text:hover {
   color: white;
 }
+
+.half-opacity {
+  opacity: 0.5;
+}
