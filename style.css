@@ -114,3 +114,17 @@ img.is-rounded.avatar {
 h1.title.cta {
   margin-bottom: 2rem;
 }
+
+.button.is-rounded:hover {
+  color: white;
+  background: #059552;
+}
+
+/* FOOTER */
+.green-background {
+  background: #059552;
+}
+
+.white-text:hover {
+  color: white;
+}
