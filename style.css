@@ -2,7 +2,7 @@
 
 /* NAVIGATION */
 .navbar {
-  padding: 1.2rem 0;
+  padding: 1.2rem 1.5rem;
 }
 
 .navbar-logo {
@@ -143,4 +143,12 @@ h1.title.cta {
 
 .footer-two {
   margin-left: auto;
+}
+
+.half-opacity-link:hover {
+  opacity: 0.5;
+}
+
+.footer {
+  padding: 6rem 1.5rem 6rem;
 }
