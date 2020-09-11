@@ -129,6 +129,12 @@ h1.title.cta {
   color: white;
 }
 
+/*
 .half-opacity {
   opacity: 0.5;
+}
+*/
+
+.is-size-8 {
+  font-size: 0.75rem;
 }
