@@ -100,3 +100,17 @@ h2.subtitle {
 img.is-rounded.avatar {
   margin: 2rem auto auto;
 }
+
+/* CALL-TO-ACTION */
+.green {
+  color: #059552;
+}
+
+.button.is-rounded {
+  border-width: 2px;
+  border-color: #059552;
+}
+
+h1.title.cta {
+  margin-bottom: 2rem;
+}
